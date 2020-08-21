@@ -1,0 +1,1 @@
+powershell.exe -noprofile -WindowStyle Hidden -file %~dp0Jabot.ps1
