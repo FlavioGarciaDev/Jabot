@@ -1,5 +1,5 @@
 # Jabot
-Esse é o NOSSO peixe!
+Esse é o **NOSSO** peixe!
 
 Esse bot só faz sentido só pra algumas pessoas, se você caiu aqui por engano, não se preocupe, é culpa do Jabó.
 
@@ -33,4 +33,6 @@ Dentro do diretório do Jabot tem uma pasta chamada **Frases** contendo um arqui
 Dentro da pasta **Imagens/Perfil** tem as imagens que aparecem junto da maioria das notificações. É só colocar mais imagens e reiniciar o Jabot que todas vão ir aparecendo aleatoriamente.
 
 ## Pronto!
-Qualquer dúvida/ajuda, me chama lá no Teams. Se você leu até aqui, está automaticamente me devendo um café. ☕😁
+Qualquer dúvida/ajuda, me chama lá no Teams.
+
+Se você leu até aqui, está automaticamente me devendo um café. ☕😁
